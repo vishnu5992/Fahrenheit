@@ -1,0 +1,11 @@
+#heading{
+    text-align: center;
+}
+#submit{
+    background-color: blue;
+    color: white;
+    margin-top: 10px;
+}
+#result{
+    text-align: center;
+}
